@@ -1,0 +1,1 @@
+bar(Month,Transactions);
